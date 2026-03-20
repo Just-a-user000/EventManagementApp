@@ -37,10 +37,6 @@ php artisan serve
 - **Admin**: admin@events.com / password
 - **Utente**: mario@example.com / password
 
-## Documentazione Completa
-
-Per la documentazione dettagliata, architettura del sistema, diagrammi UML e analisi completa del progetto, consulta la **tesina**.
-
 ## Repository
 
 GitHub: [Just-a-user000/EventManagementApp](https://github.com/Just-a-user000/EventManagementApp)
