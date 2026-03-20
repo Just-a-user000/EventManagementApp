@@ -39,7 +39,7 @@ php artisan serve
 
 ## Documentazione Completa
 
-Per la documentazione dettagliata, architettura del sistema, diagrammi UML e analisi completa del progetto, consulta la **tesina** disponibile nella cartella `docs/`.
+Per la documentazione dettagliata, architettura del sistema, diagrammi UML e analisi completa del progetto, consulta la **tesina**.
 
 ## Repository
 
